@@ -1,4 +1,10 @@
 print("Hello World!")
 print("Hello all!")
+<<<<<<< HEAD
 print("Hello you!")
 print("HelloOOOO NO!")
+=======
+print("Seckond work comp cloned")
+print("Yo")
+print("HI")
+>>>>>>> origin/master
